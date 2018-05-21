@@ -1,0 +1,6 @@
+F:\Users\Marcsquiskeeiey\TechAcademy\ReMath\ReMath\bin\Debug\ReMath.exe.config
+F:\Users\Marcsquiskeeiey\TechAcademy\ReMath\ReMath\bin\Debug\ReMath.exe
+F:\Users\Marcsquiskeeiey\TechAcademy\ReMath\ReMath\bin\Debug\ReMath.pdb
+F:\Users\Marcsquiskeeiey\TechAcademy\ReMath\ReMath\obj\Debug\ReMath.exe
+F:\Users\Marcsquiskeeiey\TechAcademy\ReMath\ReMath\obj\Debug\ReMath.pdb
+F:\Users\Marcsquiskeeiey\TechAcademy\ReMath\ReMath\obj\Debug\ReMath.csprojResolveAssemblyReference.cache
